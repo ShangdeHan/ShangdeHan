@@ -1,8 +1,7 @@
 ### Hi there, I'm Shangde! 👋
 
 
-
-Here are some ideas to get you started:
+Hi, I'm Shangde Han, a passionate backEnd developer.  
 
 - 🎓 I’m currently sutding at [UC Davis](https://www.ucdavis.edu/)
 - 👯 I’m looking to collaborate on doing [leetcode](https://leetcode.com/problemset/algorithms/)
