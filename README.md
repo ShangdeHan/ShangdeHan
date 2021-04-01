@@ -10,8 +10,8 @@ Hi, I'm Shangde Han, a passionate backEnd developer.
    
 
 <a href="https://github.com/ShangdeHan/github-readme-stats">   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShangdeHan&show_icons=true&include_all_commits=true&hide=contribs,prs&theme=material-palenight" alt="Shangde's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShangdeHan&show_icons=true&include_all_commits=true&hide=contribs,prs&theme=synthwave" alt="Shangde's github stats" />
 </a>
 <a href="https://github.com/ShangdeHan/github-readme-stats">   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShangdeHan&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShangdeHan&layout=compact&theme=synthwave" />
 </a>
