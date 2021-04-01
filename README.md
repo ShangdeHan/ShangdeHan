@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Shangde! 👋
 
 
 
@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 
 ![Shangde's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShangdeHan&show_icons=true&theme=material-palenight&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShangdeHan&layout=compact&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShangdeHan&layout=compact&theme=material-palenight)    
+   
 
+<a href="https://github.com/anuraghazra/github-readme-stats">   
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShangdeHan&show_icons=true&include_all_commits=true&hide=contribs,prs&theme=material-palenight" alt="Shangde's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">   
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShangdeHan&layout=compact&theme=material-palenight" />
+</a>
