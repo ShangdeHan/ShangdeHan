@@ -7,6 +7,7 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <br />
+<br />
 
 Hi, I'm Shangde Han, a passionate software developer.  
 - 🎓 I’m currently sutding at [UC Davis](https://www.ucdavis.edu/)
