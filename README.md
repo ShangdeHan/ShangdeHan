@@ -1,7 +1,10 @@
 ### Hi there, I'm Shangde! 👋
 
-Hi, I'm Shangde Han, a passionate software developer.  
+<a href="https://github.com/ShangdeHan/ShangdeHan/blob/main/assets/WeChat%20QR%20code.jpg">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://github.com/ShangdeHan/ShangdeHan/blob/main/assets/wechat.png" />
+</a>
 
+Hi, I'm Shangde Han, a passionate software developer.  
 - 🎓 I’m currently sutding at [UC Davis](https://www.ucdavis.edu/)
 - 👯 I’m looking to collaborate on doing [leetcode](https://leetcode.com/problemset/algorithms/)
 - 🌱 I’m currently learning computer network and OS
