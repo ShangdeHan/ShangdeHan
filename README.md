@@ -1,7 +1,7 @@
 ### Hi there, I'm Shangde! 👋
 
 <a href="https://github.com/ShangdeHan/ShangdeHan/blob/main/assets/WeChat%20QR%20code.jpg">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://github.com/ShangdeHan/ShangdeHan/blob/main/assets/wechat_2.png" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://github.com/ShangdeHan/ShangdeHan/blob/main/assets/wechat_3.png" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
