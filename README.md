@@ -25,7 +25,7 @@ Hi, I'm Shangde Han, a passionate software developer.
 <i class="programming lang-javascript"></i>
 
 <a href="https://github.com/ShangdeHan/github-readme-stats">   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShangdeHan&show_icons=true&include_all_commits=true&hide=contribs,prs&theme=solarized-light" alt="Shangde's github stats"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShangdeHan&show_icons=true&include_all_commits=true&hide=contribs,prs&theme=solarized-light" alt="Shangde's github stats"/>
 </a>
 <a href="https://github.com/ShangdeHan/github-readme-stats">   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShangdeHan&layout=compact&theme=solarized-light"/>
