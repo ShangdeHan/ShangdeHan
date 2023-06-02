@@ -13,7 +13,7 @@ Hi, I'm Shangde Han, a passionate software developer.
 - 🎓 I graduated from [UC Davis](https://www.ucdavis.edu/)
 - 👯 I’m looking to collaborate on doing [leetcode](https://leetcode.com/problemset/algorithms/)
 - 🌱 I’m currently learning DirectX.
-- 🚀 I’m working at Dolby.
+- 🚀 I’m working at Amazon.
    
 **Languages and Tools:**  
 
